@@ -4,5 +4,5 @@ $lastname = "Gogna";
 $sentence = "My name is";
 $age = "20";
 
-$sentence.$firstname . $lastname;
-\n "I am $age years old";
+echo $sentence.$firstname . $lastname;
+echo "\n I am $age years old";
